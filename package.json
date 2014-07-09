@@ -1,0 +1,27 @@
+{
+  "name": "node-error",
+  "version": "0.0.0",
+  "description": "throws errors, read from a config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lemonde/node-error.git"
+  },
+  "author": "yannick dominguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemonde/node-error/issues"
+  },
+  "homepage": "https://github.com/lemonde/node-error",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1",
+    "nconf": "^0.6.9"
+  }
+}
