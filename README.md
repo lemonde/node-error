@@ -1,7 +1,4 @@
 # Node Error
-[![Build Status](https://travis-ci.org/lemonde/json-schema-formatter.svg?branch=master)](https://travis-ci.org/lemonde/json-schema-formatter)
-[![Dependency Status](https://david-dm.org/lemonde/json-schema-formatter.svg?theme=shields.io)](https://david-dm.org/lemonde/json-schema-formatter)
-[![devDependency Status](https://david-dm.org/lemonde/json-schema-formatter/dev-status.svg?theme=shields.io)](https://david-dm.org/lemonde/json-schema-formatter#info=devDependencies)
 
 Error manager instantiating errors read from a config.
 
@@ -29,8 +26,8 @@ throw errors(‘users:notFound’);
 
 ```json
 {
-  message: ‘the error message’
-  code: ‘the HTTP error code’
+  message: "the error message"
+  code: "the HTTP error code"
 }
 ```
 
