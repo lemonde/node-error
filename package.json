@@ -1,6 +1,6 @@
 {
   "name": "node-error",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "throws errors, read from a config file",
   "main": "index.js",
   "scripts": {
