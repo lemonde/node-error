@@ -22,12 +22,12 @@ throw errors(‘users:notFound’);
 
 ```
 
-## Error format
+## Error format example
 
 ```json
 {
   message: "the error message"
-  code: "the HTTP error code"
+  code: 400
 }
 ```
 
