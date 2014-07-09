@@ -26,8 +26,8 @@ throw errors(‘users:notFound’);
 
 ```json
 {
-  message: "the error message"
-  code: 400
+  "message": "the error message"
+  "code": 400
 }
 ```
 
