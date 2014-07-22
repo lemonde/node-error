@@ -5,7 +5,7 @@ Error manager instantiating errors read from a config.
 ## Install
 
 ```
-npm install git://github.com/lemonde/node-error.git
+npm install git+ssh://git@github.com:lemonde/node-error.git#v0.1.0
 ```
 
 ## Usage
